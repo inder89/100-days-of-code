@@ -10,8 +10,8 @@ Did a few coding challenges on Exercism.io
 **Thoughts:** The coding challenges took me some time to wrap my mind around the problem. The FreeCodeCamp stuff was easy although while reading in depth about Prototype properties and attributes I realized how much I don't know. 
 
 **Link to work:** 
-1. [https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects]
-2. [https://github.com/inder89/JavaScript30]
+1. https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects
+2. https://github.com/inder89/JavaScript30
 
 ### Day 2: March 17, 2019
 
@@ -20,5 +20,5 @@ Did a few coding challenges on Exercism.io
 **Thoughts**: The freecodecamp project didn't seem hard at the first glance though I had to brush up the CSS tricks to get all the layout aligned. I need more practice in CSS, perhaps I should try to master CSS flexbox and grid first. Overall I don't think I was that productive today. May be that's the whole point of learning: the more you get stuck, the more you learn. 
 
 **Link to work:**
-1. [https://stupefied-almeida-331028.netlify.com/]
+1. https://stupefied-almeida-331028.netlify.com/
 2. https://github.com/inder89/JavaScript30/tree/master/Day%202%20JS%20and%20CSS%20Clock
