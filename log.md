@@ -22,3 +22,9 @@ Did a few coding challenges on Exercism.io
 **Link to work:**
 1. https://stupefied-almeida-331028.netlify.com/
 2. https://github.com/inder89/JavaScript30/tree/master/Day%202%20JS%20and%20CSS%20Clock
+
+### Day 3: March 19, 2019
+
+**Today's Progress**: Redid the FreeCodeCamp Survey Form Project using Flexbox only. Spent most of yesterday and coding along with Flexbox courses and reading the documentation. 
+
+**Thoughts**: The Imposter's syndrome is already kicking in whenever I end up finishing less than I expected. It'll be good if I can strike a balance between learning deeply about a concept and moving on when it's needed. 
