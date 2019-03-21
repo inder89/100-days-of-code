@@ -28,3 +28,12 @@ Did a few coding challenges on Exercism.io
 **Today's Progress**: Redid the FreeCodeCamp Survey Form Project using Flexbox only. Spent most of yesterday and coding along with Flexbox courses and reading the documentation. 
 
 **Thoughts**: The Imposter's syndrome is already kicking in whenever I end up finishing less than I expected. It'll be good if I can strike a balance between learning deeply about a concept and moving on when it's needed. 
+
+### Day 4: March 21, 2019
+
+**Today's Progress**: Finished the Product Landing Page of FreeCodeCamp today. Did a few coding challenges in JavaScript and CSS grids.
+
+**Thoughts**: After a lot of work I can say I am getting the hang of advanced css. Some of the mistakes I made today were starting to solve a problem too soon. I should take my time to toy around with the problem and only then should attepmt coding. Even though it feels like today was a slow start but still I would like to believe I learned something while looking for solutions. 
+
+**Links to work:**
+1. https://cranky-aryabhata-2157a7.netlify.com/
